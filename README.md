@@ -2,7 +2,7 @@
 
    <p>This project is dedicated to conducting a comprehensive analysis of player performances during the T20 World Cup 2022, with the primary objective of selecting the best 11 players from the tournament. Leveraging the power of Python's Pandas library for efficient data processing and manipulation, and Power BI for visually appealing and insightful representations, this project provides a thorough exploration of the tournament's statistical landscape.</p>
 <h2>Skills Required</h2>
-<p>Skills are as folloows:</p>
+<p>Skills are as follows:</p>
 <ul>
  <li>Python Basics</li>
  <li>Python's Pandas</li>
