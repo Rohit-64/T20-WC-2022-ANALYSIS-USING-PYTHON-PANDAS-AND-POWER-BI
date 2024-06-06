@@ -1,4 +1,4 @@
- <h1>T20 World Cup 2022 Analysis Project</h1>
+ <h1>T20 World Cup 2022 Analysis Project to Find best 11</h1>
 
    <p>This project is dedicated to conducting a comprehensive analysis of player performances during the T20 World Cup 2022, with the primary objective of selecting the best 11 players from the tournament. Leveraging the power of Python's Pandas library for efficient data processing and manipulation, and Power BI for visually appealing and insightful representations, this project provides a thorough exploration of the tournament's statistical landscape.</p>
 
@@ -43,7 +43,7 @@
         
    <li><strong>Interactivity:</strong> Power BI offers extensive interactivity features, allowing users to filter, drill down, and slice and dice the data dynamically. This interactivity enhances the user experience, enabling deeper exploration and understanding of the analysis results.</li>
         
-  <li><strong>Final 11:<strong>Finally we find our best possible 11 based on the performance on the 2022 T20 WC</li>
+  <li><strong>Final 11:<strong> Finally we find our best possible 11 based on the performance on the 2022 T20 WC.</li>
     </ol>
 
  
